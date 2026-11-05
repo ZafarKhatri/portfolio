@@ -111,3 +111,9 @@ I practice problem solving using Java and maintain my solutions on GitHub.
 - Backend development with Node.js and Express.js
 - Building stronger full-stack development skills
 - Writing cleaner and more maintainable code
+
+## 🏆 Certifications & Achievements
+
+- 📜 Computer Networks and Internet Protocol — NPTEL
+- 💻 Solved multiple Data Structures & Algorithms problems on LeetCode
+- 🚀 Built and maintained multiple academic and personal software projects
