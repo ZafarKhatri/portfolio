@@ -117,3 +117,9 @@ I practice problem solving using Java and maintain my solutions on GitHub.
 - 📜 Computer Networks and Internet Protocol — NPTEL
 - 💻 Solved multiple Data Structures & Algorithms problems on LeetCode
 - 🚀 Built and maintained multiple academic and personal software projects
+
+## 📄 Resume
+
+Interested in my background, skills, and project experience?
+
+[View My Resume](./Resume.pdf)
