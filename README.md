@@ -12,3 +12,28 @@ problem solving, and building practical projects.
 - 🌱 Currently improving my Java, DSA, and web development skills
 - 🔨 I learn by building projects and understanding how things work
 - 🎯 Working toward becoming a stronger software developer
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- Angular
+- Node.js
+- Express.js
+- MongoDB
+
+### AI / Machine Learning
+- OpenCV
+- TensorFlow
+- DeepFace
+
+### Tools
+- Git
+- GitHub
+- VS Code
