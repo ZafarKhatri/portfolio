@@ -74,7 +74,7 @@ A collaborative academic project combining computer vision, multi-face tracking,
 
 ### 🛒 Product Catalog Management System
 
-A full-stack web application for managing products through an Angular frontend and a Node.js backend.
+A full-stack product catalog management system built with an Angular frontend and Node.js backend.
 
 **Features**
 - View, add, and delete products
@@ -98,7 +98,7 @@ I practice problem solving using Java and maintain my solutions on GitHub.
 
 - 🟢 Java-based DSA practice
 - 🧠 LeetCode problem solving
-- 📚 Topics include arrays, strings, matrices, recursion, searching, sorting, and more
+- 📚 Practice across arrays, strings, matrices, recursion, searching, sorting, and more
 
 [View DSA Repository](https://github.com/ZafarKhatri/DSA-JAVA)
 
