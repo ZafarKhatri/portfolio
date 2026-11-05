@@ -103,3 +103,11 @@ I practice problem solving using Java and maintain my solutions on GitHub.
 [View DSA Repository](https://github.com/ZafarKhatri/DSA-JAVA)
 
 [View LeetCode Profile](https://leetcode.com/u/Zafar_Khatri/)
+
+## 📚 Currently Learning
+
+- Java and Data Structures & Algorithms
+- Problem solving through LeetCode
+- Backend development with Node.js and Express.js
+- Building stronger full-stack development skills
+- Writing cleaner and more maintainable code
