@@ -123,3 +123,12 @@ I practice problem solving using Java and maintain my solutions on GitHub.
 Interested in my background, skills, and project experience?
 
 [View My Resume](./Resume.pdf)
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/zafar-khatri-13885b211/)
+- 🐙 [GitHub](https://github.com/ZafarKhatri)
+- 📸 [Instagram](https://www.instagram.com/zafar_khatri_/)
+- 📧 [Personal Email](mailto:zafarkhatri2005@gmail.com)
+- 🎓 [College Email](mailto:2403031057152@paruluniversity.ac.in)
+- 🧠 [LeetCode](https://leetcode.com/u/Zafar_Khatri/)
