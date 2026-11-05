@@ -91,3 +91,15 @@ A full-stack web application for managing products through an Angular frontend a
 - MongoDB
 
 [View Repository](https://github.com/ZafarKhatri/Product-Catalog-Management-System)
+
+## 🧩 Data Structures & Algorithms
+
+I practice problem solving using Java and maintain my solutions on GitHub.
+
+- 🟢 Java-based DSA practice
+- 🧠 LeetCode problem solving
+- 📚 Topics include arrays, strings, matrices, recursion, searching, sorting, and more
+
+[View DSA Repository](https://github.com/ZafarKhatri/DSA-JAVA)
+
+[View LeetCode Profile](https://leetcode.com/u/Zafar_Khatri/)
